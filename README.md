@@ -15,9 +15,9 @@ evaluation gates and cost controls.
 
 | Project | What it shows |
 |---|---|
-| [**visual-product-search**](https://github.com/1999juggernaut/visual-product-search) | Identify the exact product (SKU) from a customer photo: image embeddings (DINOv2 / SigLIP2) + vision-LLM re-ranking, served as a FastAPI API **and an MCP tool**, with multi-tenant auth, versioned catalogue, golden-set eval gate and a budget breaker. 34 tests, CI. |
-| [**salesforce-llm-document-pipeline**](https://github.com/1999juggernaut/salesforce-llm-document-pipeline) | Async Salesforce → FastAPI → Docling → LLM → callback pipeline: Queueable callouts, retries with exponential backoff, idempotent jobs, failure isolation, job-status polling. Apex + pytest, CI. |
-| [**yolov8-fall-detection**](https://github.com/1999juggernaut/yolov8-fall-detection) | Real-time fall detector (IIT Delhi capstone): **mAP@50 0.909**, 3.4 ms/image on a T4. Data-quality pipeline (corrupt/duplicate/outlier removal), training config and a video alerting script. |
+| [**visual-product-search**](https://github.com/sudhanshu-1999/visual-product-search) | Identify the exact product (SKU) from a customer photo: image embeddings (DINOv2 / SigLIP2) + vision-LLM re-ranking, served as a FastAPI API **and an MCP tool**, with multi-tenant auth, versioned catalogue, golden-set eval gate and a budget breaker. 34 tests, CI. |
+| [**salesforce-llm-document-pipeline**](https://github.com/sudhanshu-1999/salesforce-llm-document-pipeline) | Async Salesforce → FastAPI → Docling → LLM → callback pipeline: Queueable callouts, retries with exponential backoff, idempotent jobs, failure isolation, job-status polling. Apex + pytest, CI. |
+| [**yolov8-fall-detection**](https://github.com/sudhanshu-1999/yolov8-fall-detection) | Real-time fall detector (IIT Delhi capstone): **mAP@50 0.909**, 3.4 ms/image on a T4. Data-quality pipeline (corrupt/duplicate/outlier removal), training config and a video alerting script. |
 
 ### Tech I work with
 
