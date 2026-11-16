@@ -21,15 +21,25 @@ evaluation gates and cost controls.
 
 ### Tech I work with
 
-**Agents & LLMs:** LangGraph (typed state, checkpointing, human-in-the-loop) · LangChain · CrewAI · Model Context Protocol (MCP) · tool/function calling · Pydantic tool schemas · ReAct / plan-and-execute
-**RAG & search:** FAISS · ChromaDB · Vertex AI Vector Search · sentence-transformers · hybrid BM25 + dense · re-ranking · chunking
-**Reliability & evals:** async job orchestration · retries with backoff · dead-letter queues · golden sets · LLM-as-a-judge · prompt-injection containment
-**Backend & cloud:** Python · FastAPI · Docker · GCP (Cloud Run, Vertex AI, Gemini, Pub/Sub, Firestore, BigQuery) · Terraform
-**ML & CV:** PyTorch · YOLOv8 · OpenCV · scikit-learn · transformers
-**Salesforce:** Apex (triggers, batch, queueable) · LWC · Flows · Apex REST · Named Credentials
+| Area | Tools and techniques |
+|---|---|
+| **Agents & LLMs** | LangGraph (typed state, checkpointing, human-in-the-loop) · LangChain · CrewAI · Model Context Protocol (MCP) · tool/function calling · Pydantic tool schemas · ReAct / plan-and-execute |
+| **RAG & search** | FAISS · ChromaDB · Vertex AI Vector Search · sentence-transformers · hybrid BM25 + dense · re-ranking · chunking |
+| **Reliability & evals** | async job orchestration · retries with backoff · dead-letter queues · golden sets · LLM-as-a-judge · prompt-injection containment |
+| **Backend & cloud** | Python · FastAPI · Docker · GCP (Cloud Run, Vertex AI, Gemini, Pub/Sub, Firestore, BigQuery) · Terraform |
+| **ML & CV** | PyTorch · YOLOv8 · OpenCV · scikit-learn · transformers |
+| **Salesforce** | Apex (triggers, batch, queueable) · LWC · Flows · Apex REST · Named Credentials · Data 360 (Data Cloud) |
 
 ### Certifications
 
-- Claude Certified Architect – Foundations (Anthropic, 2026)
-- Introduction to Model Context Protocol · Introduction to Agent Skills · Claude Code in Action (Anthropic)
+**Salesforce**
+- Salesforce Certified Data 360 Consultant (formerly Data Cloud Consultant), 2025
+- Salesforce Certified Platform Developer, 2024
+- Salesforce Certified Platform Foundations, 2023
+
+**Anthropic**
+- Claude Certified Architect – Foundations, 2026
+- Introduction to Model Context Protocol · Introduction to Agent Skills · Claude Code in Action
+
+**Education**
 - Advanced AI & Deep Learning Programme, IIT Delhi
