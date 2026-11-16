@@ -7,7 +7,7 @@ async, retry-safe backends around them. 3.5+ years shipping enterprise software 
 now focused on agent reliability: queue-based orchestration, idempotent callbacks, schema-validated tool I/O,
 evaluation gates and cost controls.
 
-[LinkedIn](https://linkedin.com/in/sudhanshu-singh)
+[LinkedIn](https://www.linkedin.com/in/sudhanshu-singh-1b3174179/)
 
 ---
 
